@@ -3,7 +3,7 @@
 
 ## Description
 
-This Node.js project utilizes Puppeteer to scrape GitHub issues for three different languages/frameworks. The scraped data is organized into three folders, each containing ten JSON files with information about the top GitHub issues for the respective languages/frameworks.
+This Node.js project utilizes cheerio to scrape GitHub issues for three different languages/frameworks. The scraped data is organized into three folders, each containing ten JSON files with information about the top GitHub issues for the respective languages/frameworks.
 Describe your project briefly, highlighting its purpose and key features. Mention that the project is written in Node.js and uses Puppeteer for web scraping.
 
 
